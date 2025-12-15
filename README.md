@@ -9,22 +9,20 @@ The repository is organized to support transparency, reproducibility, and reuse 
 ## Repository Structure
 
 ```
-├── Demographic-and-Behavioural-Data/
 ├── Disconnectomes/
 ├── Regression-Results-Images/
 ├── Scripts/
 │   ├── APM_VGR_FMUL_correlations.ipynb
 │   └── APMregression_covVGRAgeSex_MNI_5000perms.ipynb
+├── Demographic-and-Behavioural-Data.csv
 ├── environmentrequirements.txt
+
 ```
 
 ---
 
 ## Folder and File Descriptions
 
-### `Demographic-and-Behavioural-Data/`
-
-Contains anonymized demographic and behavioural measures used in the analyses, including proprioceptive and motor task scores. These data serve as inputs for all statistical analyses.
 
 ### `Disconnectomes/`
 
@@ -43,6 +41,10 @@ Contains Jupyter notebooks implementing all statistical analyses reported in the
 
 * **`APMregression_covVGRAgeSex_MNI_5000perms.ipynb`**
   Performs voxel-wise regression analyses relating white matter disconnection to proprioceptive impairment while controlling for motor impairment, age, and sex. Statistical significance is assessed using nonparametric permutation testing (5,000 permutations) in MNI space.
+
+### `Demographic-and-Behavioural-Data.csv`
+
+Contains anonymized demographic and behavioural measures used in the analyses, including proprioceptive and motor task scores. These data serve as inputs for all statistical analyses.
 
 ### `environmentrequirements.txt`
 
