@@ -74,9 +74,8 @@ All shared data have been anonymized and are distributed in accordance with inst
 
 If you use this code or data, please cite the following publication:
 
-Kaeja M, Iturria-Medina Y, Villringer A, Sehm B, Steele C.
-*Patterns of Structural Disconnection Driving Proprioceptive Deficits in Chronic Stroke.*
-**Stroke**. 2025. doi:10.1161/STROKEAHA.125.052266
+Kaeja, M., Gajiyeva, L., Iturria-Medina, Y., Villringer, A., Sehm, B., & Steele, C. J. (2025). Patterns of Structural Disconnection Driving Proprioceptive Deficits in Chronic Stroke. _Stroke, 57_(3), 732–744. https://doi.org/10.1161/STROKEAHA.125.052266
+
 
 ---
 
